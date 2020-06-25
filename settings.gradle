@@ -1,2 +1,3 @@
+include ':materialbuttonprogress'
 rootProject.name = "MaterialButtonProgress"
 include ':app'

@@ -2,12 +2,9 @@ package com.sergiobelda.materialbuttonprogress
 
 import android.animation.ValueAnimator
 import android.os.Bundle
-import android.view.View
 import android.view.ViewGroup
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.button.MaterialButton
-import com.google.android.material.progressindicator.ProgressIndicator
-
 
 class MainActivity : AppCompatActivity() {
     private lateinit var button: MaterialButton
